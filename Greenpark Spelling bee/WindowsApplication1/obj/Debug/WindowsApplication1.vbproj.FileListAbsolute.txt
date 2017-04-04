@@ -1,0 +1,34 @@
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\4741\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Class_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Create_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login_screen.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Next_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Test_Library.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.en-GB.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.yo-NG.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\WindowsApplication1.resources.dll

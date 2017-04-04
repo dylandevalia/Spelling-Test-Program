@@ -1,0 +1,455 @@
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Class_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Create_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login_screen.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Next_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Test_Library.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.en-GB.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.yo-NG.resources
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\WindowsApplication1.resources.dll
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\dfs-students\student$\Home-Folders\Year12\DominicJomaa\Profile.V2\Desktop\Computer science\Second year\UI\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Account_Management.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\WindowsApplication1.resources.dll
+I:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\WindowsApplication1.resources.dll
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.About_Spelling_bee.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Account_Management.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Class_Marks.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_See_Old_Marks.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Create_Test.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login_screen.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Next_Test.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_See_Old_Marks.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teacher_Menu_Test_Library.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.en-GB.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student_Menu_Take_Test.yo-NG.resources
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\WindowsApplication1.resources.dll
+I:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\WindowsApplication1.resources.dll
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+G:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+G:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenpark_spellingBee.accdb
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI\WindowsApplication1\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\UI\WindowsApplication1\WindowsApplication1\bin\Debug\Greenpark_spellingBee.accdb
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+L:\UI Back up\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+L:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+L:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+D:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+N:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+N:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+N:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+N:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+N:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+D:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+E:\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+E:\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+\\dfs-students\student$\Home-Folders\Computer Assesstments\2013-14\Year12\DominicJomaa\Profile.V2\Documents\Green Park System\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Admin_Menu.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+L:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+D:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Admin_Menu.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbprojResolveAssemblyReference.cache
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Admin_Menu.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+M:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.config
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.ResolveComReference.cache
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.xml
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.pdb
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe.manifest
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.application
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.exe
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.pdb
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\Greenparks Spelling bee.xml
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\en-GB\Greenparks Spelling bee.resources.dll
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\bin\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.About_Spelling_bee.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Admin_Menu.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.SplashScreen1.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks_RV.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks_RV.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Account_Management.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Class_Marks.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_See_Old_Marks.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Create_Test.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Login_screen.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Next_Test.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_See_Old_Marks.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Resources.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Teacher_Menu_Test_Library.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.en-GB.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\GPSB_System.Student_Menu_Take_Test.yo-NG.resources
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenpark Spelling be System.vbproj.GenerateResource.Cache
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.cache
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\RdlCompile.compiled
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\en-GB\Greenparks Spelling bee.resources.dll
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\yo-NG\Greenparks Spelling bee.resources.dll
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.exe.manifest
+J:\Green park\UI\Greenpark Spelling bee\WindowsApplication1\obj\Debug\Greenparks Spelling bee.application
